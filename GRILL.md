@@ -1,7 +1,7 @@
 # GRILL ME — AI Document Q&A App
 
 ## Idea
-Build a document Q&A AI app using JSON data and deploy on Vercel.
+Build a Smart AI app using JSON data and deploy on Vercel.
 
 ## Criticism / Problems
 
